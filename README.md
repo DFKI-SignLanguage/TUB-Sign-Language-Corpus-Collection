@@ -1,1 +1,1 @@
-# Sign Language Corpus Collection
+# TUB Sign Language Corpus Collection
